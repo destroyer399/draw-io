@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T08:12:26.159Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.5.5" etag="ibkgf3CwZbB7BJuYrhYj" type="github"><diagram id="AvowDiVXP_LdViHBowUd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-27T08:28:09.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="nondOXGvRHArqgcUFibP" version="15.5.5" type="github">
+  <diagram id="AvowDiVXP_LdViHBowUd" name="Page-1">
+    <mxGraphModel dx="946" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4CZf3HNKgoPariVdmfcr-1" value="XMDS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#5D7F99;strokeColor=#D0CEE2;sketch=1;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="190" y="300" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4CZf3HNKgoPariVdmfcr-2" value="Data Pool" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#5D7F99;strokeColor=#D0CEE2;sketch=1;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="390" y="300" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4CZf3HNKgoPariVdmfcr-3" value="XClient（with XCache）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#5D7F99;strokeColor=#D0CEE2;sketch=1;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4CZf3HNKgoPariVdmfcr-5" value="Gateway" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#5D7F99;strokeColor=#D0CEE2;sketch=1;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="380" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
